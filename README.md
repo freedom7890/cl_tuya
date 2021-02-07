@@ -3,8 +3,10 @@
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices. For more information, please check Tuya Developer Website.
 
 智能窗帘机器人-涂鸦版
+==
 
 功能：
+----
 
 1，红外遥控控制
 2，手拉启动
@@ -16,6 +18,7 @@ This project is developed using Tuya SDK, which enables you to quickly develop b
 
 
 硬件配置
+---------
 
 mcu stm32l010f4p6
 
@@ -30,6 +33,7 @@ wifi   涂鸦wbr3
 
 
 工作原理
+-------
 
        涂鸦模组或红外接收 控制信号，mcu处理后控制电机转动。
        霍尔传感器检测位置及方向，实现行程限位，及手拉启动。
