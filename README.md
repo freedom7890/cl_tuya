@@ -1,7 +1,9 @@
 # -
 窗帘机器人-涂鸦版
 This project is developed using Tuya SDK, which enables you to quickly develop branded apps connecting and controlling smart scenarios of many devices. For more information, please check Tuya Developer Website.
+
 ![](https://github.com/freedom7890/cl_tuya/blob/main/IMG_20210207_203703.jpg)
+
 智能窗帘机器人-涂鸦版
 ==
 
